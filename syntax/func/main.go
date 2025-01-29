@@ -1,5 +1,6 @@
 package main
 
 func main() {
-	println("Hello, world")
+	//fun5()
+	fun6(18, "hahah1", "hahahh")
 }
