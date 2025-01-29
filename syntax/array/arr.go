@@ -5,6 +5,7 @@ func main() {
 	s1[0] = "a"
 	println(s1[1])*/
 	arr1()
+
 }
 
 func arr1() {
