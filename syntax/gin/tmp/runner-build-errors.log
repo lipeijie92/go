@@ -1,0 +1,2 @@
+# basic/syntax/gin
+.\main.go:65:10: undefined: routers.apiRoutersInit
